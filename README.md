@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software Engineering: Process &amp; Techniques Assignment
 
 ## Team Information
@@ -59,3 +60,6 @@ console interface, the interface (and what values to be entered) should be very 
 be error-checked to avoid crashing!
 
 More details and clarifications of Requirements will be posted to Blackboard
+=======
+# Hairdressing-Booking-System
+>>>>>>> cbb8dc7d6893b76f891255e927f4e3fb8aadf468
