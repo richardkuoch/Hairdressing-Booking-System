@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Software Engineering: Process &amp; Techniques Assignment
 
 ## Team Information
@@ -21,8 +20,6 @@ extendedClass
 **GitHub:** https://github.com/krismania/se-pt-a1
 
 **Trello:** https://trello.com/b/FCcJDb3Z/extendedclass
-
-**Slack:** https://extendedclass.slack.com/messages/C4DPURVSB/
 
 **Lean Testing:** https://app.leantesting.com/en/projects/extendedclass/23342
 
@@ -59,7 +56,3 @@ You do not have to provide a GUI interface in Part 1 but you can if you prefer. 
 console interface, the interface (and what values to be entered) should be very clear and should
 be error-checked to avoid crashing!
 
-More details and clarifications of Requirements will be posted to Blackboard
-=======
-# Hairdressing-Booking-System
->>>>>>> cbb8dc7d6893b76f891255e927f4e3fb8aadf468
